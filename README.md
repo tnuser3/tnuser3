@@ -7,6 +7,6 @@ hi
 - Qyzar.eu (Authentication project)
 - CheapN (Cheap Accounts - Discontinued)
 # Contact
-email: kmantnuser@gmail.com
-discord: eni7oy60l6
-telegram: @mexicano039o2
+- email: kmantnuser@gmail.com
+- discord: eni7oy60l6
+- telegram: @mexicano039o2
