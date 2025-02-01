@@ -1,7 +1,7 @@
 hi
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,postgres,unity,sqlite,php,p5js,nodejs,nginx,linux,dotnet,discordjs,mongodb,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,p5js,nodejs,php,py,cpp,dotnet,discordjs,postgres,sqlite,mongodb,unity,nginx,linux,js,cs)](https://skillicons.dev)
 # Current Projects
 - Steal.lol
 - [Qyzar.eu](https://qyzar.eu)
