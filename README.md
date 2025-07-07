@@ -10,4 +10,4 @@ Cybersecurity and web applications
 # Contact
 - email: kmantnuser@gmail.com
 - discord: eni7oy60l6
-- telegram: @mexicano039o2
+- telegram: @wembydrc
