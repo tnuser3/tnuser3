@@ -3,7 +3,7 @@ hi
 # Interests
 Cybersecurity and web applications
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,p5js,nodejs,php,py,cpp,dotnet,discordjs,postgres,sqlite,mongodb,unity,nginx,linux,js,cs,vite,react,npm,ts,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,php,dotnet,postgres,linux,js,cs,react,ts,nextjs)](https://skillicons.dev)
 # Current Projects
 - [Qyzar.eu](https://qyzar.eu)
 - [Shop Qyzar](https://discord.gg/xM6Pvfnkdz)
